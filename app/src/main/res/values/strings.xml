@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CheckPermissions</string>
+
+    <string-array name="app_permissions_txt">
+        <item>INTERNET</item>
+        <item>CALL_PHONE</item>
+        <item>VIBRATE</item>
+        <item>RECORD_AUDIO</item>
+        <item>ACCESS_FINE_LOCATION</item>
+        <item>ACCESS_COARSE_LOCATION</item>
+        <item>READ_SMS</item>
+        <item>READ_CONTACTS</item>
+        <item>CAMERA</item>
+        <item>READ_CALENDAR</item>
+        <item>BODY_SENSORS</item>
+        <item>BLUETOOTH_SCAN</item>
+
+    </string-array>
+</resources>
