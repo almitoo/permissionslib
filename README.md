@@ -26,10 +26,10 @@ The permissions are displayed as a list with icons, and the user can click on ea
 
 ## Installation
 
-To use `PermissionsLib` in your Android project, add the following dependency to your `build.gradle` file:
+To use `PermissionsLib` in my app Android project,  i add the following dependency to your `build.gradle` file:
 
 ```gradle
 dependencies {
-    implementation 'com.example:permissionslib:1.0.0'
+    implementation(project(":permissionslib"))// my lib
 }
 
